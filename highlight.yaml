@@ -119,7 +119,14 @@ forms:
         
     lineNumber:
       type: radio
-      label: View line numbers. (default: true)
+      label: Show line numbers. (default: true)
+      options:
+        "true": "true"
+        "false": "false"
+        
+    singleLine:
+      type: radio
+      label: Show line numbers in single line of code block. (default: true)
       options:
         "true": "true"
         "false": "false"
