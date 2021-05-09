@@ -5,9 +5,9 @@ Highlight your code examples with highlight.js for [typemill](https://typemill.n
 
 ## Adding feature
 - Selecting [highlight.js]() theme
-- Show line number using [highlightjs-line-numbers.js](`https://wcoder.github.io/highlightjs-line-numbers.js/`)
-- Emphasize lines using [highlights-highlight-lines.js]()
-- Show file name using [highlightjs-highlight-filename.js](`https://github.com/TRSasasusu/highlightjs-highlight-filename.js`)
+- Show line number using [highlightjs-line-numbers.js](https://wcoder.github.io/highlightjs-line-numbers.js/)
+- Emphasize lines using [highlights-highlight-lines.js](https://github.com/wcoder/highlightjs-line-numbers.js/)
+- Show file name using [highlightjs-highlight-filename.js](https://github.com/TRSasasusu/highlightjs-highlight-filename.js)
 
 ## Pretreatment
 - Remove the code below in `/theme/cyanine/css/style.css`
